@@ -13,5 +13,5 @@ As funcionalidades implementadas permitem aos usuários
 **Como executar o aplicativo**
 
 - Execute as migrações com o comando python manage.py makemigrations.
-- Aplique migrações com o comando python [manage.py](http://manage.py/) migrate.
+- Aplique migrações com o comando python [manage.py](http://manage.py/) migrate. 
 - Execute o servidor usando python [manage.py](http://manage.py/) runserver.
