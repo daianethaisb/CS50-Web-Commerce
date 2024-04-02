@@ -1,8 +1,8 @@
 ## Projeto 2 - Commerce:
 
-> Implementação de um site de leilões de comércio eletrônico semelhante ao eBay.
+> Desenvolvimento e implementação de funcionalidades a um site de leilões de comércio eletrônico semelhante ao eBay em um código de distribuição fornecido pelo curso.
 
-Permite aos usuários
+As funcionalidades implementadas permitem aos usuários
 
 * postar listagens de leilões,
 * fazer lances em listagens,
